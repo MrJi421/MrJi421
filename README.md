@@ -1,5 +1,12 @@
 # 💫 About Me
-🚀 Welcome to my GitHub galaxy! 🌌<br><br>Hey there! I'm Hemant Kumar, a tech enthusiast on a mission to blend creativity with coding magic. Here's a glimpse into my digital universe:<br><br>🔧 Currently crafting:<br>Weaving webs with HTML, CSS, and JavaScript, while Java journeys and AI/ML adventures fuel my creative engines.<br><br>🌟 Seeking cosmic collaborators:<br>In search of stellar minds to join forces on projects that orbit the intersection of innovation and imagination.<br><br>🆘 Questing for wisdom in:<br>Unlocking the secrets of AI/ML and mastering the art of RPA sorcery—assistance from wise wizards welcomed!<br><br>📚 Studying the stars:<br>Delving into the cosmos of AI algorithms, refining front-end finesse, and decoding the language of automation.<br><br>❓ Pose me cosmic queries:<br>From coding cosmic conundrums to dancing dilemmas—I'm ready to discuss tech, dance, and everything in between!<br><br>🎉 Fun Fact Fusion:<br>When I'm not decoding the digital universe, I'm busting moves on the dance floor with algorithms as my dance partners. Also, I once taught a Java class to my pet robot—turns out, it's quite the programming prodigy!<br><br>Let's embark on a celestial journey of coding creativity and cosmic connections! 🌟✨
+🧑‍💻 Developer & Bug Bounty Hunter
+🔍 Tracking down bugs by day, building tools by night
+💡 Passionate about cybersecurity, ethical hacking, and clean code
+🛠️ Working with modern stacks and custom-built tools for recon & automation
+🚀 Always learning, always shipping — from exploits to open-source
+🤝 Open for collabs on security tools, automation, and cool side projects
+🌐 Sharing knowledge through write-ups, scripts, and contributions
+
 
 
 # 🌐 Socials
