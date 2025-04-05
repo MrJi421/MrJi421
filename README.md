@@ -1,11 +1,11 @@
 # 💫 About Me
-🧑‍💻 Developer & Bug Bounty Hunter
-🔍 Tracking down bugs by day, building tools by night
-💡 Passionate about cybersecurity, ethical hacking, and clean code
-🛠️ Working with modern stacks and custom-built tools for recon & automation
-🚀 Always learning, always shipping — from exploits to open-source
-🤝 Open for collabs on security tools, automation, and cool side projects
-🌐 Sharing knowledge through write-ups, scripts, and contributions
+🧑‍💻 <b>Developer & Bug Bounty Hunter</b><br>
+🔍 Tracking down bugs by day, building tools by night<br>
+💡 Passionate about cybersecurity, ethical hacking, and clean code<br>
+🛠️ Working with modern stacks and custom-built tools for recon & automation<br>
+🚀 Always learning, always shipping — from exploits to open-source<br>
+🤝 <b>Open for collabs</b> on security tools, automation, and cool side projects<br>
+🌐 Sharing knowledge through write-ups, scripts, and contributions<br>
 
 
 
