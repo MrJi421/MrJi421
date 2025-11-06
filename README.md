@@ -21,20 +21,11 @@
 
 # 💻 Tech Stack
 
-    [//]:### 🔐 Cybersecurity / InfoSec<br>
-    [//]:![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
-    [//]:![Nmap](https://img.shields.io/badge/Nmap-00497A?style=for-the-badge&logo=nmap&logoColor=white)
-    [//]:![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-    [//]:![Metasploit](https://img.shields.io/badge/Metasploit-3C3C3D?style=for-the-badge&logo=metasploit&logoColor=white)
-    [//]:![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-    [//]:![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-    [//]:![Shodan](https://img.shields.io/badge/Shodan-black?style=for-the-badge&logo=shodan&logoColor=red)
+
 
 
 ### 👨‍💻 Languages<br>
-    [//]:![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    [//]:![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)0
 
